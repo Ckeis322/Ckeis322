@@ -13,4 +13,4 @@
 
 # Чистый   JS
 
-[Калькулятор](https://ckeis322.github.io/calculator/) и ссылка на код https://ckeis322.github.io/calculator.git
+[Калькулятор](https://ckeis322.github.io/calculator/) и ссылка на код [https://ckeis322.github.io/calculator.git](https://github.com/Ckeis322/calculator.git)
